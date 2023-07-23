@@ -1,0 +1,6 @@
+{
+    "iss": "jwt.personal",
+    "jti": "a-123",
+    "aud": "localhost",
+    "upn": "production"
+}
